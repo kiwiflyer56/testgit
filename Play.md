@@ -2,6 +2,6 @@
 ## Secondary Heading
 ### Tertiary Heading
 
-* A lits
+* A list
 * of 
 * items
